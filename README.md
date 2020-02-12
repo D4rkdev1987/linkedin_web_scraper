@@ -7,11 +7,12 @@ Web Scrape Jobs straight from the terminal with the GUI created
 1. download/pull all files
 2. place chromedriver in the same folder
 3. run these commands
-    pipenv install selenium
-    pip install bs4
-    pip install pyautogui
-    pip install wheel
-    pip install pandas
+3.    pipenv install selenium
+3.    pipenv install bs4
+3.    pipenv install pyautogui
+3.    pipenv install wheel
+3.    pipenv install pandas
+3.    pipenv install requests
 4. run "webscrape.py"
 5. follow the process through the GUI created
 
