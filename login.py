@@ -72,9 +72,6 @@ class StartPage(tk.Frame):
         self.username = self.entry_username.get()
         self.password = self.entry_password.get()
 
-        #data=urlopen("https://raw.githubusercontent.com/nicoo77/test/master/list2.txt").read().decode('utf_8')
-        #data = data.split("\n")
-
         #if self.username in data:
         #    tm.showinfo("user authorized!\n press 'ok' to continue")
         #    self.controller.show_frame("PageOne")
